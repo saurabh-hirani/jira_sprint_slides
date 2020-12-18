@@ -1,0 +1,305 @@
+{
+  "meta": {
+    "tag_order": [
+      "proj1",
+      "proj2",
+      "proj3",
+      "misc"
+    ]
+  },
+  "users": {
+    "user1": [
+      {
+        "url": "https://jira.acme.com/browse/PROJ-703",
+        "summary": "sample summary",
+        "description": null,
+        "tags": ["proj1"],
+        "demo": {
+          "user1": true
+        }
+      },
+      {
+        "url": "https://jira.acme.com/browse/PROJ-675",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["proj2"],
+        "demo": {}
+      }
+    ],
+    "user2": [
+      {
+        "url": "https://jira.acme.com/browse/PROJ-701",
+        "summary": "sample summary",
+        "description": null,
+        "tags": ["proj3"],
+        "demo": {}
+      },
+      {
+        "url": "https://jira.acme.com/browse/PROJ-696",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["misc"],
+        "demo": {}
+      },
+      {
+        "url": "https://jira.acme.com/browse/PROJ-695",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["proj2"],
+        "demo": {}
+      },
+      {
+        "url": "https://jira.acme.com/browse/PROJ-694",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["misc"],
+        "demo": {
+          "user2": true
+        }
+      },
+      {
+        "url": "https://jira.acme.com/browse/PROJ-693",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["proj1"],
+        "demo": {}
+      },
+      {
+        "url": "https://jira.acme.com/browse/PROJ-682",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["proj2"],
+        "demo": {}
+      },
+      {
+        "url": "https://jira.acme.com/browse/PROJ-681",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["proj3"],
+        "demo": {}
+      },
+      {
+        "url": "https://jira.acme.com/browse/PROJ-680",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["misc"],
+        "demo": {}
+      },
+      {
+        "url": "https://jira.acme.com/browse/PROJ-678",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["proj1"],
+        "demo": {}
+      },
+      {
+        "url": "https://jira.acme.com/browse/PROJ-677",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["proj2"],
+        "demo": {}
+      },
+      {
+        "url": "https://jira.acme.com/browse/PROJ-676",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["proj3"],
+        "demo": {
+          "user2": true
+        }
+      },
+      {
+        "url": "https://jira.acme.com/browse/PROJ-674",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["proj2"],
+        "demo": {}
+      },
+      {
+        "url": "https://jira.acme.com/browse/PROJ-672",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["proj1"],
+        "demo": {}
+      },
+      {
+        "url": "https://jira.acme.com/browse/PROJ-671",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["proj2"],
+        "demo": {}
+      },
+      {
+        "url": "https://jira.acme.com/browse/PROJ-663",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["misc"],
+        "demo": {}
+      },
+      {
+        "url": "https://jira.acme.com/browse/PROJ-662",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["misc"],
+        "demo": {}
+      },
+      {
+        "url": "https://jira.acme.com/browse/PROJ-643",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["proj1"],
+        "demo": {}
+      }
+    ],
+    "user3": [
+      {
+        "url": "https://jira.acme.com/browse/PROJ-687",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["proj2"],
+        "demo": {}
+      },
+      {
+        "url": "https://jira.acme.com/browse/PROJ-685",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["proj3"],
+        "demo": {}
+      },
+      {
+        "url": "https://jira.acme.com/browse/PROJ-665",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["misc"],
+        "demo": {}
+      },
+      {
+        "url": "https://jira.acme.com/browse/PROJ-626",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["proj1"],
+        "demo": {}
+      },
+      {
+        "url": "https://jira.acme.com/browse/PROJ-368",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["proj2"],
+        "demo": {}
+      },
+      {
+        "url": "https://jira.acme.com/browse/PROJ-366",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["proj3"],
+        "demo": {}
+      }
+    ],
+    "user4": [
+      {
+        "url": "https://jira.acme.com/browse/PROJ-667",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["misc"],
+        "demo": {}
+      },
+      {
+        "url": "https://jira.acme.com/browse/PROJ-666",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["proj1"],
+        "demo": {}
+      },
+      {
+        "url": "https://jira.acme.com/browse/PROJ-648",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["proj2"],
+        "demo": {}
+      },
+      {
+        "url": "https://jira.acme.com/browse/PROJ-639",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["proj3"],
+        "demo": {}
+      },
+      {
+        "url": "https://jira.acme.com/browse/PROJ-621",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["misc"],
+        "demo": {}
+      }
+    ],
+    "user5": [
+      {
+        "url": "https://jira.acme.com/browse/PROJ-657",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["proj1"],
+        "demo": {}
+      },
+      {
+        "url": "https://jira.acme.com/browse/PROJ-650",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["proj2"],
+        "demo": {}
+      },
+      {
+        "url": "https://jira.acme.com/browse/PROJ-641",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["proj3"],
+        "demo": {}
+      }
+    ],
+    "user6": [
+      {
+        "url": "https://jira.acme.com/browse/PROJ-651",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["proj1"],
+        "demo": {}
+      },
+      {
+        "url": "https://jira.acme.com/browse/PROJ-632",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["proj1"],
+        "demo": {}
+      },
+      {
+        "url": "https://jira.acme.com/browse/PROJ-631",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["misc"],
+        "demo": {}
+      }
+    ],
+    "user7": [
+      {
+        "url": "https://jira.acme.com/browse/PROJ-640",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["proj2"],
+        "demo": {}
+      },
+      {
+        "url": "https://jira.acme.com/browse/PROJ-638",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["proj3"],
+        "demo": {}
+      },
+      {
+        "url": "https://jira.acme.com/browse/PROJ-622",
+        "summary": "sample summary",
+        "description": "",
+        "tags": ["misc"],
+        "demo": {}
+      }
+    ]
+  }
+}
