@@ -3,7 +3,7 @@
 Use JIRA APIs to get sprint data dump and [python-pptx](https://python-pptx.readthedocs.io/en/latest/)
 module to generate sprint review PPT.
 
-Check sample `output/sample_sprint_22.pptx` to check a sample ppt.
+Check sample ppt - [output/sample_sprint_22.pptx](./output/sample_sprint_22.pptx)
 
 ## Why
 
