@@ -28,6 +28,7 @@ pip3 install -r requirements.txt
 3. Set the sprint name and dump JIRA issues
 
 ```sh
+export JIRA_URL='https://jira.acme.com'
 export JIRA_SPRINT_NAME='Sample Sprint 22'
 export JIRA_USER_NAME='your_jira_user_name'
 export JIRA_PASSWORD='your_jira_password'
@@ -40,7 +41,7 @@ This creates `data/sample_sprint_22/output.json` and `data/sample_sprint_22/summ
    manually update `data/sample_sprint_22/summary_updated.json` - e.g. ordering the topics, marking
    those who will demo. 
 
-   You can do a diff to see sample manual changes.
+   You can do a diff against the sample provided in this repo to see manual changes required.
 
 ```sh
 vimdiff data/sample_sprint_22/summary.json data/sample_sprint_22/summary_updated.json
@@ -49,6 +50,7 @@ vimdiff data/sample_sprint_22/summary.json data/sample_sprint_22/summary_updated
 5. Generate ppt
 
 ```sh
+export JIRA_SPRINT_NAME='Sample Sprint 22'
 python generate_sprint_review_ppt.py
 ```
 
