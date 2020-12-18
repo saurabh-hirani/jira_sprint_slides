@@ -5,15 +5,15 @@ module to generate sprint review PPT.
 
 ## Why
 
-Our team used to update stakeholders with a presentation of work done as a part of sprint review. This
-involved categorizing stories by projects and creating a PPT out of them. Updating the stakeholders
-added value, but manually creating the ppt by copy pasting JIRA ids and summaries didn't. So I wrote 
+Our team updates project stakeholders with a sprint review presentation at the end of each sprint. This
+involves categorizing JIRA stories by projects and creating a PPT out of them. Updating the stakeholders
+adds value, but manually creating the ppt by copy pasting JIRA ids and summaries doesn't. So I wrote 
 this tool.
 
 ## It lacks cool JIRA API feature X. Will you add it?
 
 Nope. This is a one time get-it-done script. It satisfies the minimal requirement. I will not
-be updating it to with any more features. Feel free to fork it and update it.
+be updating it with any more features. Feel free to fork it and update it.
 
 ## How do I use it
 
